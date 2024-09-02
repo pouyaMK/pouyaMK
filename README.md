@@ -9,4 +9,6 @@
 </div>
 
 <h3>Languages :</h3>
-<img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,alpinejs,arch,astro,bash,cs,cpp,codepen,debian,docker,dotnet,electron,fastapi,figma,firebase,flask,git,gitlab,go,ai,java,jquery,kali,less,linux,mint,mongodb,mysql,neovim,nestjs,nextjs,nginx,nodejs,npm,ps,php,postman,powershell,pr,py,react,redhat,redux,regex,sass,ruby,stackoverflow,solidjs,threejs,ts,vim,vite,vue,' alt="languages">
+<div align="center">
+<img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,alpinejs,arch,bash,cs,cpp,debian,docker,dotnet,electron,fastapi,figma,firebase,flask,git,gitlab,go,java,jquery,kali,less,linux,mongodb,mysql,neovim,nestjs,nextjs,nginx,nodejs,npm,php,postman,powershell,py,react,redhat,redux,regex,sass,ruby,stackoverflow,solidjs,threejs,ts,vim,vite,vue,' alt="languages">
+</div>
