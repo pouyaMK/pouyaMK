@@ -7,7 +7,7 @@
 
 <h2>Languages :</h2>
 <div align="center">
-<img src='https://skillicons.dev/icons?i=js,ts,linux,vim,bash,security,networking&perline=17' alt="languages">
+<img src='https://skillicons.dev/icons?i=js,ts,linux,vim,bash,docker,c,security,networking&perline=17' alt="languages">
 </div>
 
 
